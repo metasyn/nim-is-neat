@@ -219,7 +219,7 @@ method vocalize(this: Cat): string = "meow"
 
 ## dependency free binaries
 
-![](https://nim-lang.org/assets/img/features/binary_size.png)
+![](./img/binary_size.png)
 
 ---
 
